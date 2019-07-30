@@ -9,11 +9,11 @@ email: marinaflessa@gmail.com
 ### Personal summary
 
 > Hello! I'm a Software Engineer that lives in São Paulo since July 2017. My current interests are on the microsservices architecture, Functional Programming and GraphQL. I had experience with front-end stuff with React Native on my current job and React on my previous one, but these are not my focus at the moment.
-> I'm moving to Berlin in the next few months and I am looking for on-site openings in Berlin (I'm taking care of the visa application, so no worries on this).
+> I'm moving to Berlin in the next few months and I am looking for on-site openings in Berlin (I already have the visa).
 
 ### Education 
 
-- Undergraduate (2017-2018) [NOT FINISHED] Computer Science, Pontifical University Catholic of São Paulo
+- Undergraduate (2017-2018) [not finished] Computer Science, Pontifical University Catholic of São Paulo
 - Undergraduate (2015-2017) Computer Science, Federal University of Alagoas - Maceió
 - Technician (2011-2014) Computing, Federal Institute of Alagoas - Palmeira dos Índios
 
@@ -21,7 +21,7 @@ email: marinaflessa@gmail.com
 
 - dez/2017 - now: Software Engineer, Nubank
 
-> Nubank is the biggest digital bank outside Asia and helped to build the personal loans product, I joined the team since the beginning and could participate on the architecture and design of the flows, along with the development of microsservices with Clojure + Kafka + GraphQL and the app built on React Native + Apollo. The project is running in production since january and we are currently improving the flows based on customer's feedbacks and re-designing the initial architecture to be able to support another types of loans.
+> Nubank is the biggest digital bank outside Asia and helped to build the personal loans product, I joined the team at the beginning and could participate on the architecture and design of the flows, along with the development of microsservices with Clojure + Kafka + GraphQL and the app built on React Native + Apollo. The project is running in production since january and we are currently improving the flows based on customer's feedbacks and re-designing the initial architecture to be able to support another types of loans.
 > I also contribute to the hiring guild, doing structured interviews, evaluating technical exercises and helping to create a structured way to evaluate the candidate's cv (where the main goal was to eliminate bias).
 
 - jan/2017 - dez/2017: Software Engineer, Bionexo
@@ -30,7 +30,7 @@ email: marinaflessa@gmail.com
 
 - nov/2016 - mar/2018: Freelancer Software Developer, Testr - remote
 
-> The startup is focused on create remote usability tests to help UX designers, there was a fullstack developer. My tools were Ruby on Rails, jQuery and PostgreSQL as database.
+> The startup is focused on create remote usability tests to help UX designers, there was a fullstack developer. I worked on their platform, using Ruby on Rails, jQuery and PostgreSQL as database.
 
 - out/2016 - dez/2016: Software Engineer, CodeMiner42 - remote
 
@@ -42,7 +42,7 @@ email: marinaflessa@gmail.com
 
 - dez/2015 - set/2016: Quality Assurance Developer, Tidy - Costa Mesa/CA - remote
 
-> My goal at Tidy was to develop an automated build that checks if the platform is working. My automation tools included Cucuber, Selenium, Docker and Ruby.
+> My goal at Tidy was to develop an automated e2e pipeline that checks if the platform works as they needed. My automation tools included Cucuber, Selenium, Docker and Ruby.
 
 - may/2015 - dez/2015: Intern, RogaLabs - Maceió/AL
 
@@ -83,9 +83,9 @@ email: marinaflessa@gmail.com
 ### Experience with volunteer jobs
 
 - 2018: Coach at ClojureBridge São Paulo
-- 2017: Coach at Rails Girls São Paulo 
+- 2017: Coach at Rails Girls São Paulo
 - 2016: Organizer of Rails Girls Maceió
 - 2016: Organizer and instructor at WoMakersCode Marathon - workshop to teach HTML/CSS to woman
 - 2015: Organizer of Rails Girls Maceió
-- 2015-2017: Volunteer at Mozilla, main focused on teaching the web and translating articles to pt-BR
+- 2015-2017: Volunteer at Mozilla, teaching the web and translating articles to pt-BR
 
